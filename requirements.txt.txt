@@ -1,0 +1,6 @@
+tensorflow
+streamlit
+streamlit-lottie
+Pillow
+numpy
+gdown
