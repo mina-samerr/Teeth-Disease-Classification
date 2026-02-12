@@ -4,3 +4,4 @@ streamlit-lottie
 Pillow
 numpy
 gdown
+
