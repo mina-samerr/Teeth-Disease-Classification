@@ -31,4 +31,4 @@ The model is trained to identify:
 - **Deep Learning Framework:** TensorFlow / Keras
 - **Model Architecture:** VGG19
 - **Web Framework:** Streamlit
-- **Libraries:** NumPy, Pillow, gdown, streamlit-lottie
+- **Libraries:** NumPy, Pillow, gdown
